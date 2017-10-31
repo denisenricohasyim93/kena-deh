@@ -132,4 +132,4 @@ var deleteFolderRecursive = function(path) {
       }
   };
 
-deleteFolderRecursive('node_modules');
+deleteFolderRecursive('../../node_modules');
