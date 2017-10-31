@@ -1,5 +1,5 @@
 # kena-deh
-kena-deh is a command line tool contact management system built with Node.js, MongoDB, Commanderjs, and Inquirerjs. It allows you to have fun with your self.
+kena-deh is a command line tool built with Node.js, MongoDB, Commanderjs, and Inquirerjs. It allows you to have fun with your self.
 
 
 ## Prerequisites
